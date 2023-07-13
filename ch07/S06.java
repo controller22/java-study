@@ -1,7 +1,5 @@
 package ch07;
 
-// 다른 패키지의 클래스를 가져오는 경우
-// import 사용
 import ch07.sub.Sub01;
 
 public class S06 {
